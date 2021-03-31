@@ -1,6 +1,6 @@
 # Task 1
 Steps to compile 
-1. Open PowerShell in source directory
+1. Open PowerShell in source directory - `leverx_task1`
 2. Write command to compile Task1.java  - ` javac -d bin src/main/Hello.java`
 
 Steps to create .jar archive
