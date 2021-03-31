@@ -5,7 +5,8 @@ Steps to download
 
 Steps to compile 
 1. Open PowerShell in root directory - `leverx_task1`
-2. Write command to compile Task1.java  - ` javac -d bin src/main/Hello.java`
+2. Write command to compile Hello.java  - ` javac -d bin src/main/Hello.java`
+3. Check the compiled file Hello.class - `java -cp ./bin Hello`
 
 Steps to create .jar file
 1. Go to bin package - `cd bin`
