@@ -1,4 +1,8 @@
 # Task 1
+Steps to download
+1. Download .zip of this branch to computer
+2. Unzip this acrhive
+
 Steps to compile 
 1. Open PowerShell in root directory - `leverx_task1`
 2. Write command to compile Task1.java  - ` javac -d bin src/main/Hello.java`
