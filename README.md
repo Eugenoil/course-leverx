@@ -1,5 +1,4 @@
 # Task 2
-Specification 
 Name: 
 Tic-tac-toe
 Mode: 
